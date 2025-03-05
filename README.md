@@ -1,11 +1,10 @@
 ## Antonio Victor Pereira Severiano
-- Sistema de Informação - IFAL - Maceió AL
-- Desenvolvedor Jr, Suporte e Técnico de Informática.
-- Maceió/Al, 23 anos, Solteiro.
+- Sistemas de Informação - IFAL - Maceió AL
+- Desenvolvedor Jr, Suporte ERP e Técnico de Informática.
+- Maceió/AL, 23 anos, Solteiro.
 
 ### Conecte-se comigo
 
-  [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/avps2/)  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:avps2@aluno.ifal.edu.br) 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/antonio-victor-pereira-severiano-0aa170169/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E94D5F)](https://instagram.com/antoniovictor2k)
   [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=Whatsapp&logoColor=30A3DC)](https://api.whatsapp.com/message/O4I654ATQMPYE1?autoload=1&app_absent=0)
@@ -34,7 +33,6 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=Angular&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
 
